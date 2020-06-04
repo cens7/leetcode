@@ -1,7 +1,3 @@
-/*
- * Copyright (C) 2013-2020 Hangzhou Youyun Technology Co., Ltd. All rights reserved
- */
-
 package medium;
 
 import org.junit.Test;
