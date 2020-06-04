@@ -1,7 +1,3 @@
-/*
- * Copyright (C) 2013-2020 Hangzhou Youyun Technology Co., Ltd. All rights reserved
- */
-
 package simple;
 
 import org.junit.Test;
@@ -9,10 +5,7 @@ import org.junit.Test;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * @author kongshan
- * @date 2020-06-04 16:23
- */
+
 public class No1431 {
 
     @Test

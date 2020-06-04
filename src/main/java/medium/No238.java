@@ -2,10 +2,6 @@ package medium;
 
 import org.junit.Test;
 
-/**
- * @author kongshan
- * @date 2020-06-04 15:54
- */
 public class No238 {
 
     @Test
