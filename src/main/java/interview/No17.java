@@ -1,4 +1,4 @@
-package medium;
+package interview;
 
 import java.util.Arrays;
 
@@ -9,7 +9,7 @@ import org.junit.Test;
  * @version $
  * @since 2021年09月03日 14:44:30
  */
-public class No17Dot14 {
+public class No17 {
 
     @Test
     public void test() {
